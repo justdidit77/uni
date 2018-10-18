@@ -1,0 +1,101 @@
+1) radius = input("Radius:") 
+
+X = 3.14 
+
+Pi = x 
+
+Area = pi*radiu **2 
+
+ 
+
+Traceback (most recent call last): 
+
+  File "C:/Users/21378589/Desktop/fj.py", line 4, in <module> 
+
+    area=   pi  *   radius**  2 
+
+TypeError: unsupported operand type(s) for ** or pow(): 'str' and 'int' 
+
+ 
+
+2)  x = 4 
+
+      Y = 5 
+
+      A = 3(x + y) 
+
+ x = 4 
+
+ Y = 5 
+
+ A = (x + y)*3 
+
+ 
+
+ 
+
+3) 
+
+radius=input(float("Enter the radius:")) 
+
+radius=floar(input ("Enter the radius:")) 
+
+ 
+
+4) x=19.93 
+
+y=20.00 
+
+z=y– x 
+
+print(z) 
+
+ 
+
+x   =   19.93 
+
+y   =   20.00 
+
+z   =  float(int(y - x)) 
+
+print(z) 
+
+ 
+
+6) 
+
+intx=2 
+
+Print(x,squaredis,x*x) 
+
+xcubed=x***3 
+
+ 
+
+RED is for errors 
+
+ 
+
+7) X = 2 
+
+Y = 4 
+
+print(“The product of  “, x, “and”,y, “is”, x + y) 
+
+print(“The root of their difference is“,sqrt(x– y)) 
+
+RED is for errors   
+
+print("The root of their difference is",sqrt(X- Y)) 
+
+NameError: name 'sqrt' is not defined 
+
+ 
+
+8) Hello____,next year you will be ____ years old! 
+
+name=str(input("put your name here:")) 
+
+age=int(input("how old are you going to be next year?:")) 
+
+print ('hello',name ,'next year you will be', age, 'years old') 
