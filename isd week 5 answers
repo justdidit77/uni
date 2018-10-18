@@ -1,0 +1,93 @@
+1.Whichofthefollowingconditionsaretrue,ifa=13 andb=14? 
+
+a) a+1<=b 
+
+b) a+1>=b 
+
+c) a+1!=b 
+
+ 
+
+ 
+
+ 
+
+2.Explainthemistake(s) inthefollowingcode: 
+
+myage=input(Howoldareyou) 
+
+Print(Hithere,youare+myage+old) 
+
+ 
+
+2.we need to put quotation marks for strings to be read from the machine like: 
+
+ myage = input('how old are you') 
+
+print ('hi there, you are'+myage +'old') 
+
+ 
+
+ 
+
+3.Explainwhythefollowingcode won’treallyaddthetwo“numbers”: 
+
+number1=input("Enterfirstnumber") 
+
+number2=input("Entersecondnumber") 
+
+result=number1+number2 
+
+print(“Theresultis”+result) 
+
+ 
+
+3.because script is reading number1 and number 2 as strings, it needs to be converted to “int” 
+
+ 
+
+ 
+
+4.Write code to calculate the average of: {3, 11, 78, 112, 4, 18} in one single line of code. 
+
+4.print((3+11+78+112+4+18)/6) 
+
+5. Write a program that asks the user for an integer number and then prints out the remainder after the number is divided by 7. 
+
+ 
+
+5. num= int(input("enter a number")) 
+
+num = (num/7) 
+
+print (num) 
+
+ 
+
+6. Expand the above program (5.) by also printing out how often the number 7 “fits” into the number the user entered. 
+
+ 
+
+7.What is the error in thisstatement? 
+
+If scoreA =scoreB : 
+
+print("Tie") 
+
+7. to say that 2 thing match in an if statement we need to type two ‘==’ 
+
+ 
+
+8. Supplyaconditioninthisifstatementtotestiftheuserentered a“Y”: 
+
+userInput = input("Enter Y to quit.") 
+
+if . . . //supplystatement 
+
+print("Goodbye") // if the user entered“Y” 
+
+8. userInput = input("Enter Y to quit.") 
+
+if userInput == "Y": 
+
+    print('Goodbye')
