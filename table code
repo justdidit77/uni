@@ -1,0 +1,48 @@
+one = int( 1)
+two = int(2)
+three = int(3)
+
+
+product =  "x "
+items =  "x"
+cost =  "x"
+
+
+print("%-8s %-7s %s" %(one, two, three))
+print ("%-7s %-7s %s" %(product, items, cost))
+
+print ("------------------")
+
+
+power1 = int(1**1)
+power2 = int(1**1)
+power3= int(1**1)
+
+
+print("%-8s %-7s %s" %(power1, power2, power3))
+
+
+
+powera = int (2**1)
+powerb = int (2**2)
+powerc = int (2**3)
+
+print("%-8s %-7s %s" %(powera, powerb, powerc))
+
+powerd = int (3**1)
+powere = int (3**2)
+powerf = int (3**3)
+
+print("%-8s %-7s %s" %(powerd, powere, powerf))
+
+powerg = int (4**1)
+powerh = int (4**2)
+poweri = int (4**3)
+
+print("%-8s %-7s %s" %(powerg, powerh, poweri))
+
+powerj = int (5**1)
+powerk = int (5**2)
+powerl = int (5**3)
+
+print("%-8s %-7s %s" %(powerj, powerk, powerl))
