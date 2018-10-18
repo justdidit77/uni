@@ -1,0 +1,28 @@
+1)	Get	kettle		
+2)	Put	cold	water	in	kettle	
+3)	Heat	water	UNTIL	boiling	
+4)	IF	(Water	is	boiling)	add	teabag	
+5)	Remove	Kettle	from	stove	
+6)	Wait	FOR	2	Minutes	
+7)	WHILE	waitng,	get	a	cup	
+8)	Pour	tea	into	cup		
+9)	Add	Milk	to	cup	
+10)	Stir	FOR	5	times	
+
+
+2) Python interpreter is more of a program that goes through your .py code
+or statements written in Python shell line by 
+line & produces appropriate output.
+so
+the Python shell works exactly like OS Shells like bash shell, csh etc but in this case,
+it acts a medium between you & python interpreter by submiting your code to the interpreter.
+So, it lets you use the interpreter in interactive mode.
+
+3)print ("hello world")
+
+4) print("Hello World I am in my ISD class right now")
+
+5)
+print("hi there what is your name?")
+name= input("enter your name")
+print ("hello" + name)
