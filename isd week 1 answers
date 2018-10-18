@@ -1,0 +1,67 @@
+1.What is a code repository?  
+
+ 
+
+ 
+
+A source code repository is a file archive and web hosting facility where a large amount of source code, 
+
+ for software or for web pages, is kept, either publicly or privately. 
+
+ 
+
+2.Why is it advantageous to use a code repository? 
+
+ 
+
+A Code repository is a place to store 
+
+All source code (program) 
+
+Related documents 
+
+Local or Online repositories 
+
+Source code version control 
+
+ 
+
+ 
+
+3.Describe the different “layers” of Software that exist on a typical computer and explain why there are different layers of software.  
+
+ 
+
+1) application, an application layer is an abstraction layer that specifies the shared communications protocols and interface methods used by hosts in a communications network. The application layer abstraction is used in both of the standard models of computer networking: The Internet Protocol Suite (TCP/IP) and the OSI model. Although both models use the same term for their respective highest level layer, the detailed definitions and purposes are different. 
+
+2) system software, System software is a type of computer program that is designed to run a computer's hardware and application programs. If we think of the computer system as a layered model, the system software is the interface between the hardware and user applications. ... The OS manages all the other programs in a computer. 
+
+3) hardware.  In computers, a hardware abstraction layer (HAL) is a layer of programming that allows a computer operating system to interact with a hardware device at a general or abstract level rather than at a detailed hardware level. Windows 2000 is one of several operating systems that include a hardware abstraction layer. 
+
+ 
+
+ 
+
+ 
+
+4.Describe what an algorithm is and explain why it is a useful “tool” to translate from a human level problem (we can think of) to a computer program.  
+
+ 
+
+Algorithm is a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer. 
+
+People cannot do that much of process at once. 
+
+ 
+
+ 
+
+Sources 
+
+ 
+
+1. https://en.wikipedia.org/wiki/Comparison_of_source_code_hosting_facilities 
+
+ 
+
+2. lecture session 1 
